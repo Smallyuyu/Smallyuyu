@@ -10,7 +10,7 @@ From NCKU(成功大學)
 ![Visitor Count](https://profile-counter.glitch.me/Smallyuyu/count.svg)
 
 ## C++
-> 1. [21點撲克牌遊戲](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 1. [21點撲克牌遊戲](https://github.com/Smallyuyu/Black-Jack-Cplusplus/tree/main)
 > 2. [SokoBan倉庫番](https://github.com/Smallyuyu/Sokoban)
 <!--
 **Smallyuyu/Smallyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
