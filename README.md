@@ -15,12 +15,12 @@ From NCKU(成功大學)
 > 3. [列印撲克牌](https://github.com/Smallyuyu/PrintPokerCard/tree/main)
 
 ## C#
-> 1. [視窗程式設計](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
-> > 1. [購物車系統(1-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
-> > 2. [成績計算機(2-1)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
-> > 3. [躲鬼遊戲(2-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
-> > 4. [AI算命系統(3-1](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
-> > 5. [社員資料登錄系統(3-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+1. [視窗程式設計](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 1. [購物車系統(1-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 2. [成績計算機(2-1)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 3. [躲鬼遊戲(2-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 4. [AI算命系統(3-1](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
+> 5. [社員資料登錄系統(3-2)](https://github.com/Smallyuyu/WINDOW-PROGRAMMING-Csharp)
 <!--
 **Smallyuyu/Smallyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
