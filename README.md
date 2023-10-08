@@ -1,8 +1,8 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/Smallyuyu/count.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=Smallyuyu&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/Smallyuyu/count.svg)
 
 <!--
 **Smallyuyu/Smallyuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
