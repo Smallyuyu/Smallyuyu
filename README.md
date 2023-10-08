@@ -1,13 +1,10 @@
 ## Intro
 From NCKU(成功大學)
 
+[![](https://github-readme-stats.vercel.app/api?username=Smallyuyu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=Smallyuyu&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact&theme=tokyonight)
-
-
-![Visitor Count](https://profile-counter.glitch.me/Smallyuyu/count.svg)
 
 ## C++
 > 1. [21點撲克牌遊戲](https://github.com/Smallyuyu/Black-Jack-Cplusplus/tree/main)
