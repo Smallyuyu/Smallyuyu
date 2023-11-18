@@ -4,9 +4,11 @@ From NCKU(成功大學)
 [![](https://github-readme-stats.vercel.app/api?username=Smallyuyu&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-**## C++
+## Awards
+> 1. 2023 NCPC(佳作)
+> 2. 2023 TOPC(銅獎)
+<!--
+## C++
 > 1. [21點撲克牌遊戲](https://github.com/Smallyuyu/Black-Jack-Cplusplus/tree/main)
 > 2. [SokoBan倉庫番](https://github.com/Smallyuyu/Sokoban)
 > 3. [列印撲克牌](https://github.com/Smallyuyu/PrintPokerCard/tree/main)
