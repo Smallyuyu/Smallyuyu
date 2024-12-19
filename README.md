@@ -6,8 +6,10 @@ From NCKU(成功大學)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Awards
-> 1. 2023 NCPC(佳作)
-> 2. 2023 TOPC(銅獎)
+> 1. 2024 ICPC(銅獎)
+> 2. 2024 TOPC(銅獎)
+> 3. 2023 NCPC(佳作)
+> 4. 2023 TOPC(銅獎)
 <!--
 ## C++
 > 1. [21點撲克牌遊戲](https://github.com/Smallyuyu/Black-Jack-Cplusplus/tree/main)
