@@ -8,6 +8,7 @@ From NCKU(成功大學)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smallyuyu&layout=compact)](https://github.com/Smallyuyu/github-readme-stats)
 -->
+<!--
 ## Awards
 > 1. 2024 ICPC Asia Taichung Regional Programming Contest - Bronze Medal
 > 2. 2024 Taiwan Online Programming Contest - Bronze Medal
